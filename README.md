@@ -52,11 +52,12 @@ Pengguna diberikan pilihan untuk melakukan operasi berikut:
 6. **K. Keluar**
    - Mengakhiri program.
 
-## Contoh Interaksi
+## Contoh Tampilan Interaksi
+
+![TAMPILAN PROGRAM](https://github.com/user-attachments/assets/82fa0f9c-1de7-4892-82a1-2e832e83f8fd)
+
 
 Berikut adalah contoh interaksi pengguna dengan program:
-
-
 1. Start: Titik awal program.
 2. Inisialisasi Dictionary data_mahasiswa: Membuat dictionary kosong untuk menyimpan data mahasiswa.
 3. Tampilkan Menu: Menampilkan pilihan menu kepada pengguna (Lihat, Tambah, Ubah, Hapus, Cari, Keluar).
