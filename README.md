@@ -2,7 +2,10 @@
 # Penjelasan Program Daftar Nilai Mahasiswa Menggunakan Dictionary
 Perintah program menggunakan phyton dengan tampilan perintah sebagai berikut : 
 
-![perintah program praktikum 7 wina](https://github.com/user-attachments/assets/a199addc-c77d-4f25-a5f4-09719fcf83be)
+![perintah program 1](https://github.com/user-attachments/assets/ebdee0c6-0153-465a-b353-9e2058eea30f)
+![perintah program 2](https://github.com/user-attachments/assets/cf9eb4da-dc16-42e6-808b-7aab1b2085ce)
+![perintah program 3](https://github.com/user-attachments/assets/2d2ada26-5ba8-41be-8359-bb68eecafb2c)
+![perintah program 4](https://github.com/user-attachments/assets/45d988df-aaba-4e5c-9c4b-8305e9763fec)
 
 ## Fungsi Utama
 
