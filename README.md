@@ -57,7 +57,7 @@ Pengguna diberikan pilihan untuk melakukan operasi berikut:
 
 ## Contoh Tampilan Interaksi
 
-![TAMPILAN PROGRAM](https://github.com/user-attachments/assets/82fa0f9c-1de7-4892-82a1-2e832e83f8fd)
+![TAMPILAN PROGRAM](https://github.com/user-attachments/assets/eebc589c-5ba2-489c-970c-e09b6b0cd644)
 
 
 Berikut adalah contoh interaksi pengguna dengan program:
