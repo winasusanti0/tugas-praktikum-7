@@ -91,4 +91,4 @@ Jika pengguna memilih K (Keluar):
 
 ## FLOWCHART PERINTAH 
 
-![flowchart](https://github.com/user-attachments/assets/68e519db-c622-48ad-9de0-da489abf7d5b)
+![flow chart](https://github.com/user-attachments/assets/3fd8bc07-4af3-47ad-afb9-cd0cf761637e)
