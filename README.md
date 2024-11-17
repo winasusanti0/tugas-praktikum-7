@@ -6,7 +6,7 @@ Perintah program menggunakan phyton dengan tampilan perintah sebagai berikut :
 
 ## Fungsi Utama
 
-### 1. `hitung_nilai_akhir(nilai_tugas, nilai_uts, nilai_uas)`
+### `Hitung_nilai_akhir(nilai_tugas, nilai_uts, nilai_uas)`
 - **Deskripsi**: Menghitung nilai akhir mahasiswa berdasarkan komponen nilai.
 - **Parameter**:
   - `nilai_tugas`: Nilai tugas mahasiswa.
