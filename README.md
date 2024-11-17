@@ -1,5 +1,5 @@
-# tugas-praktikum-7
-# Penjelasan Program Daftar Nilai Mahasiswa
+# WINA SUSANTI R - NIM : 352310473 (TUGAS PRAKTIKUM 7)
+# Penjelasan Program Daftar Nilai Mahasiswa Menggunakan Dictionary
 Perintah program menggunakan phyton dengan tampilan perintah sebagai berikut : 
 
 ![perintah program praktikum 7 wina](https://github.com/user-attachments/assets/a199addc-c77d-4f25-a5f4-09719fcf83be)
@@ -84,3 +84,7 @@ Jika NIM ditemukan, tampilkan informasi mahasiswa.
 Jika pengguna memilih K (Keluar):
 6. Tampilkan pesan bahwa program selesai dan keluar dari loop.
 7. End: Titik akhir program.
+
+## FLOWCHART PERINTAH 
+
+![flowchart](https://github.com/user-attachments/assets/68e519db-c622-48ad-9de0-da489abf7d5b)
